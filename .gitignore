@@ -3,7 +3,6 @@
 Thumbs.db
 
 **build/*
-!build/.gitkeep
 
 # Ignore build files
 *.obj
