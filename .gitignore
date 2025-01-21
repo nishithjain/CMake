@@ -2,7 +2,7 @@
 .DS_Store
 Thumbs.db
 
-build/*
+**build/*
 !build/.gitkeep
 
 # Ignore build files
