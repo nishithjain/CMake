@@ -54,6 +54,7 @@ ui_*
 *.ncb
 *.obj
 *.build
+**/~$*
 
 # Ignore release and debug folders
 **/Release/
