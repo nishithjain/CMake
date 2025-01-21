@@ -2,6 +2,9 @@
 .DS_Store
 Thumbs.db
 
+build/*
+!build/.gitkeep
+
 # Ignore build files
 *.obj
 *.dll
@@ -12,7 +15,6 @@ Thumbs.db
 *.exp
 *.o
 *.bin
-
 
 # Ignore Visual Studio files
 *.suo
@@ -63,9 +65,6 @@ ui_*
 **/bin/
 **/obj/
 **/out/
-build/*
-!build/.gitkeep
-
 
 # Ignore zip files and archives
 *.zip
