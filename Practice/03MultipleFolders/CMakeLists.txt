@@ -5,11 +5,6 @@ project(CMakeMultipleFolders)
 add_subdirectory(Application)
 add_subdirectory(Libraries)
 
-
-
-
-
-
-
-
+set(MY_CACHE_VAR "DefaultValue" 
+    CACHE STRING "Description of MY_CACHE_VAR")
 
