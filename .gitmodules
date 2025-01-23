@@ -1,0 +1,3 @@
+[submodule "Practice/05ExternalGitRepo/ExternalRepo/fmt"]
+	path = Practice/05ExternalGitRepo/ExternalRepo/fmt
+	url = https://github.com/fmtlib/fmt
